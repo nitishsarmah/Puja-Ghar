@@ -1,0 +1,8 @@
+{
+  "name": "PujaGhar",
+  "description": "Puja service marketplace for Guwahati, Assam: book verified pujaris, order samagri from local stores, complete packages, and track orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
